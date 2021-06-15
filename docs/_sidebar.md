@@ -24,7 +24,7 @@
           - [UI_OpenView_Parameter_Base](程序文档/DJ_FrameWork/API/UI/UI_OpenView_Parameter_Base.md)
           - [UI_ResourcesMgr](程序文档/DJ_FrameWork/API/UI/UI_ResourcesMgr.md)
         - DEvent
-          - [EventManager](程序文档/DJ_FrameWork/API/DEvent/EventManager)
+          - [EventManager](程序文档/DJ_FrameWork/API/DEvent/EventManager.md)
 - 笔记
   - 其他
     - [编程的智慧](笔记/其他/编程的智慧.md)
