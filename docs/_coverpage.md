@@ -2,7 +2,7 @@
 
 ![logo](icon.jpg)
 
-# DJ的游戏开发文档 <small>v0.0.1</small>
+# DJ的游戏开发文档 <small>v0.0.2</small>
 
 > 欢迎查阅
 
